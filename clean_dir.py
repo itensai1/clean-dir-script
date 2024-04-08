@@ -40,7 +40,7 @@ def help(filename):
     msg = f'''
     Usage: {filename} [OPTION] [PATH (absolute)]
 
-    Group files in PATH directory or the current directory if no PATH by OPTION
+    Group files in the specified directory (PATH) or the current directory if no directory is provided, based on the chosen grouping OPTION.
 
     Options:
         -a          Group files based on their first alphabetical letter.

@@ -1,4 +1,4 @@
-# clean_dir-script
+# clean-dir-script
 
 <!-- ## Script Description: -->
 
